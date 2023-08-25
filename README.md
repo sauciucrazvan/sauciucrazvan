@@ -5,7 +5,7 @@
     <br>
     Currently studying <b>Computer Science</b> at
     <br>
-    <b>Facultatea Inginerie Electrică şi Ştiinţa Calculatoarelor Suceava</b>.
+    <b>Facultatea de Inginerie Electrică şi Ştiinţa Calculatoarelor Suceava</b>.
     <br>
     <div align="center"> 
       <b>Find me on the internet 🌎</b>
