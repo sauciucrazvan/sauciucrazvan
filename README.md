@@ -24,7 +24,7 @@
     <div align="center">
         <b>Languages & Tools ⚒️</b>
         <br>
-        <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,cpp" /><br>
+        <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,c,cpp" /><br>
         <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,mysql" /><br>
     </div>
     <br>
