@@ -13,26 +13,16 @@
       <a href="mailto:razvansauciucc@outlook.com">
         <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
       </a>
-      <a href="https://linkedin.com/in/razvansauciuc">
-        <img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin"/>
-      </a>
-      <a href="https://instagram.com/razvan.sauciuc">
-        <img src="https://img.shields.io/badge/INSTAGRAM-333333?style=for-the-badge&logo=instagram" />
-      </a>
     </div>
     <br>
     <div align="center">
         <b>Languages & Tools ⚒️</b>
         <br>
-        <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,mysql" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp" /><br>
+        <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase" /><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript" /><br>
     </div>
     <br>
     <p align="center">
-        <b>
-            Code your dreams into existence, every keystroke is
-            <br>
-            a brushstroke painting the canvas of innovation. 🚀
-        </b>
+        <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects</a> • <a href="https://github.com/sauciucrazvan">personal portfolio</a>
     </p>
 </p>
