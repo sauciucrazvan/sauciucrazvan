@@ -26,6 +26,6 @@
         <img src="https://komarev.com/ghpvc/?username=sauciucrazvan&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/sauciucrazvan?style=for-the-badge" />
         <br><br>
         <b>Check out some of my work 💼</b><br>
-        <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects</a> • <a href="https://github.com/sauciucrazvan">personal portfolio</a>
+        <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects (repos)</a> • <a href="https://github.com/sauciucrazvan">personal portfolio (WIP)</a>
     </p>
 </p>
