@@ -18,8 +18,8 @@
     <div align="center">
         <b>Languages & Tools ⚒️</b>
         <br>
-        <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase" /><br>
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript" /><br>
+        <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase,tailwind,react" /><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript" /><br>
     </div>
     <br>
     <p align="center">
