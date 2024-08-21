@@ -10,8 +10,8 @@
     <div align="center"> 
       <b>Find me on the internet 🌎</b>
       <br>
-      <a href="mailto:razvansauciucc@outlook.com">
-        <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+      <a href="https://razvansauciuc.dev">
+        razvansauciuc.dev
       </a>
     </div>
     <br>
@@ -26,6 +26,6 @@
         <a href="https://github.com/sauciucrazvan"><img src="https://komarev.com/ghpvc/?username=sauciucrazvan&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/sauciucrazvan?style=for-the-badge" /></a>
         <br><br>
         <b>Check out some of my work 💼</b><br>
-        <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects (repos)</a> • <a href="https://github.com/sauciucrazvan">personal portfolio (WIP)</a>
+        <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects (repos)</a> • <a href="https://razvansauciuc.dev/projects">personal portfolio</a>
     </p>
 </p>
