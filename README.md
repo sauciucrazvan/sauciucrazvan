@@ -7,5 +7,5 @@
     <b>Check out some of my work 💼</b><br>
     <a href="https://github.com/sauciucrazvan?tab=repositories">open source projects</a> • <a href="https://razvansauciuc.dev/projects">all projects</a>
     <br /><br />
-    <a href="https://razvansauciuc.dev">razvansauciuc.dev</a>
+    <a href="https://razvansauciuc.dev"><b>razvansauciuc.dev</b></a> / <a href="mailto: contact@razvansauciuc.dev">email</a>
 </p>
