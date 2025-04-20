@@ -1,6 +1,6 @@
 <h2 align="left">Hey there, I'm Răzvan. 👋 </h2>
 <p align="left">
-    👨‍💻 I am a passionate <b>Software Developer</b>, currently located in <b>Romania</b> 🇷🇴. 
+    👨‍💻 I am a <b>Software Developer</b>, currently located in <b>Romania</b> 🇷🇴. 
     <br />
     🎓 Currently studying <b>Computer Science</b> at <b>FIESC, Suceava</b>.
     <br /><br />
