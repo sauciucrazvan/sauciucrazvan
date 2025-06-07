@@ -3,7 +3,7 @@
 <p align="left">
     👨‍💻 <b>Full-Stack Software Developer</b>, currently located in <b>Romania</b> 🇷🇴. 
     <br />
-    🎓 Currently studying <b>Computer Science</b> at <b>FIESC, Suceava</b>.
+    🎓 Currently studying <b>Computer Engineering</b> at <b>FIESC, Suceava</b>.
     <br />
     <br />
     <a href="https://razvansauciuc.dev"><b>razvansauciuc.dev</b></a> <b>/</b> <a href="mailto: contact@razvansauciuc.dev">contact</a> • <a href="https://razvansauciuc.dev/projects">projects</a> • <a href="https://www.razvansauciuc.dev/Curriculum%20Vitae%20-%20Razvan%20Sauciuc.pdf">resumé</a>
