@@ -1,7 +1,7 @@
 ## Hey there, I'm Răzvan. 👋
 
 <p align="left">
-    👨‍💻 <b>Full-Stack Software Engineer</b>, currently located in <b>Romania</b> 🇷🇴. 
+    👨‍💻 <b>Software Engineer</b>, currently located in <b>Romania</b> 🇷🇴. 
     <br />
     🎓 Currently studying <b>Computer Engineering</b> at <b>FIESC, Suceava</b>.
     <br />
